@@ -1,0 +1,6 @@
+username,password,role,result
+admin,admin123,admin,failed
+quang,1,user,pass
+wronguser,wrongpass,None,failed
+,a,user,failed
+a,,user,failed
